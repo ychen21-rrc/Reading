@@ -1,0 +1,12 @@
+We’ve prepared a complete set of documentation to make the handover smooth and to ensure that you and future teams can easily understand, use, and continue the system.
+First, the User Manual is a simple, non-technical guide for daily use. It shows how to track registrations and facilitators, and it includes all current CRM features.
+Next, the Technical Manual explains how the system works, including the architecture and data flow. It also covers APIs, Google Sheets integration, environment setup, and CRM configuration for future development.
+The Transition Plan summarizes the current system status, outlines next steps, and provides recommendations to support a smooth handover to the client or future teams.
+We also included Test Cases to validate system functionality and ensure that registrations, emails, and integrations are working correctly.
+The Project Charter defines the project goals, scope, and key stakeholders, helping keep everyone aligned.
+The Meeting Minutes record all key discussions and decisions, and track requirements and changes throughout the project.
+In addition, we provide a zipped source code file, which includes the complete project, including the stop-gap system and the CRM that is still in progress. This allows future teams to continue development easily.
+We also created a Project Portfolio, which is a high-level and visually appealing summary designed for non-technical audiences such as clients and stakeholders. This document can be shared outside the project space.
+Finally, the Business Process Mapping Diagram visually shows how the system works. It compares the manual process before with the automated process after, highlights how data flows, and clearly shows the improvements in efficiency and reduction in manual work.
+All documentation and source code will be provided to you, so you have everything needed to operate, maintain, and further develop the system going forward.
+And now I’ll pass it over to Andrea for the next part.
