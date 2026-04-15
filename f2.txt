@@ -1,0 +1,4 @@
+In this project, I mainly worked on the technical side, like building the WordPress plugin and connecting it with the Next.js API.
+The biggest challenge was making sure the data flowed correctly between WordPress and Google Sheets. At first, we had some API issues, but I fixed them through testing and adjusting the backend on Vercel.
+I also worked closely with my teammates and helped with the documentation so the client can use the system easily.
+Overall, I feel more confident in full-stack development, and I’m glad we delivered a useful system to the Winnipeg Transition Centre.
